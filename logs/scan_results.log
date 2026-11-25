@@ -1,0 +1,11 @@
+--- Starting DevSecOps Scan ---
+Checking: https://www.google.com
+  [PASS] https://www.google.com is UP
+------------------------
+Checking: https://github.com
+  [PASS] https://github.com is UP
+------------------------
+Checking: https://www.facebook.com
+  [PASS] https://www.facebook.com is UP
+------------------------
+--- Scan Completed ---
